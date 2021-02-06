@@ -1,0 +1,159 @@
+<style type="text/css">
+
+.bg {
+
+}
+body {
+background-image:url(bgr.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+.img1
+{
+	position: absolute;
+  left: 170px;
+  width: 200px;
+  top: 50px;
+  border: 3px solid white;
+  padding: 10px;
+}
+.img2
+{
+	position: absolute;
+  left: 80px;
+  width: 400px;
+  top: 50px;
+  border: 3px solid white;
+  padding: 10px;
+}
+.img2right
+{
+	position: absolute;
+  right: 100px;
+  width: 300px;
+  top: 90px;
+  border: 3px solid white;
+  padding: 10px;
+}
+.img3
+{
+	position: absolute;
+  left: 80px;
+  width: 300px;
+  top: 90px;
+  border: 3px solid white;
+  padding: 10px;
+}
+.img3right
+{
+	position: absolute;
+  right: 80px;
+  width: 300px;
+  top: 90px;
+  border: 3px solid white;
+  padding: 10px;
+}
+.header {
+position: fixed;
+background: #DDDDDD;
+color: #000099;
+width: 1350px;
+height: 60px;
+font-size: 50px;
+top: 0;
+font-weight:1000;
+font-family:Brush Script MT;
+}
+.circle {
+  
+  margin: 20px auto;
+  width: 300px;
+  height: 70px;
+  border-radius: 200px;
+}
+.mark1 {
+  
+  margin: 20px auto;
+  width: 300px;
+  height: 40px;
+  opacity: 0;
+  border-radius: 200px;
+}
+.mark2 {
+margin: 20px auto;
+  width: 300px;
+  height: 1000px;
+  opacity: 0;
+  border-radius: 200px;
+}
+.big1{
+width: 1300px;
+  height: 400px;
+  position: relative;
+    left:10%;
+    top: 30px;
+	left: 0.5%;
+	opacity: 0.7;
+	background-color: #99CC99;
+}
+.big2{
+width: 1300px;
+  height: 400px;
+  position: relative;
+    left:10%;
+    top: 30px;
+	left: 0.5%;
+	opacity: 0.7;
+	background-color: #6699FF;
+}
+.big3{
+width: 1300px;
+  height: 400px;
+  position: relative;
+    left:10%;
+	bottom: 140px;
+	left: 0.5%;
+	opacity: 0.7;
+	background-color: #CCCCFF;
+}
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-family: Copperplate;
+  font-size: 30px;
+}
+.texttop {
+  position: absolute;
+  top: 10%;
+  left: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #FFFFFF;
+  font-family: Impact;
+  font-size: 70px;
+}
+
+.left {
+	position: fixed;
+    left:10%;
+    bottom:0px;
+	background-color: #99CC99;
+}
+.mid {
+	position: fixed;
+  left: 39%;
+    bottom:0;
+	background-color: #6699FF;
+}
+.right{
+position: fixed;
+  right: 10%;
+    bottom:0;
+	background-color: #CCCCFF;
+}
+</style>
